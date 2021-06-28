@@ -1,7 +1,7 @@
 import './index.css'
 
 const p = document.createElement('p')
-p.textContent = 'Hello from webpack!'
+p.textContent = 'Hello from webpack and yes its deployed !'
 document.body.appendChild(p);
 
 const p2 = document.createElement('p');
