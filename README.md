@@ -31,4 +31,7 @@ Scripts mentioned earlier
     "webpack-cli": "^4.7.2",
     "express": "^4.16.3",
     "express-favicon": "^2.0.1"
-  }
+  },
+
+npm install --save-dev html-webpack-inline-source-plugin 
+  "html-webpack-inline-source-plugin": "0.0.10",
