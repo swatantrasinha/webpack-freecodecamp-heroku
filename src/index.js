@@ -1,7 +1,7 @@
 import './index.css'
 
 const p = document.createElement('p')
-p.textContent = 'My App is now deployed !'
+p.textContent = 'My App is now deployed successfully in heroku !!!'
 document.body.appendChild(p);
 
 const p2 = document.createElement('p');
